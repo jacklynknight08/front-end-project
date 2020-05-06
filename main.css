@@ -28,4 +28,23 @@
     color: #555863;
     margin-top: 10px;
     margin-right: 1em;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #555863;
+    color: white;
+    font-size: 13px;
+}
+
+.link-color {
+    color: white;
+}
+
+.footer-space {
+    padding-top: 1em;
+}
+
+.extra-space {
+    padding-top: 10px;
 }
