@@ -21,3 +21,11 @@
 .btn-color {
     background-color: #555863 !important;
 }
+
+.icon-space {
+    padding: 10px;
+    text-align: center;
+    color: #555863;
+    margin-top: 10px;
+    margin-right: 1em;
+}
