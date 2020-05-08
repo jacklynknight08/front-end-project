@@ -76,7 +76,7 @@ footer {
 }
 
 .list-font {
-    font-size: 17px;
+    font-size: 18px;
 }
 
 h2 {
@@ -90,4 +90,19 @@ h2 {
 .typing {
     color: gray;
     font-weight: lighter;
+}
+
+.underline:after {
+    background: none repeat scroll 0 0 #555863;
+    bottom: -10px;
+    content: "";
+    display: block;
+    height: 3px;
+    position: relative;
+    width: 150px;
+    margin: auto;
+}
+
+.width {
+    column-width: 200px;
 }
