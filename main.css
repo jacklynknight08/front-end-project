@@ -106,3 +106,23 @@ h2 {
 .width {
     column-width: 200px;
 }
+
+.service-margin {
+    margin-top: 3em;
+}
+
+.list-align {
+    text-align: justify;
+}
+
+.font-size {
+    font-size: 14px;
+}
+
+.icon-color {
+    color: #ADCAB0;
+}
+
+.line-break {
+    display: block;
+}
