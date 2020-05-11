@@ -1,8 +1,8 @@
 var typed = new Typed('.typing', {
     strings: ["a digital marketer.", "an ad strategist.", "a copywriter."],
     loop: true,
-    typeSpeed: 65,
-    backSpeed: 65,
+    typeSpeed: 60,
+    backSpeed: 60,
     backDelay: 1000,
   });
   
