@@ -19,8 +19,12 @@
     padding-top: 20%;
     padding-bottom: 20%;
     font-family: 'Noto Sans', sans-serif;
-    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
     text-align: center;
+    position: relative;
+}
+
+.jumbotron h1 {
+    padding-top: 25px;
 }
 
 .jumbotron h1, h3 {
@@ -87,6 +91,10 @@ h2 {
     font-weight: lighter;
 }
 
+.type-font {
+    font-size: 26px;
+}
+
 .typing {
     color: gray;
     font-weight: lighter;
@@ -145,3 +153,4 @@ h2 {
 .home-color {
     color: pink !important;
 }
+
